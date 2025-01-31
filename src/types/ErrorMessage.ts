@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 export enum ErrorMessage {
   Default = '',
   EmptyTitle = 'Title should not be empty',
