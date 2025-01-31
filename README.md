@@ -8,10 +8,10 @@ Deployment: [Todos](https://natalia646.github.io/todos-with-api/)
 
 ### Core Stack
 - **React**: For building components and rendering.
+- **SCSS**: For adding styles.
 
 ### Additional Libraries
 - **React Transition Group**: For smooth animation..
-- **i18next**: For multilingual support.
 - **Classnames**: For conditional class additions.
 
 ### Development Tools
